@@ -1,0 +1,5 @@
+{
+  "name": "TEAM 30 SAP Extraction Prototype",
+  "description": "A real-time interface to monitor the status and performance of an industrial sap extraction prototype. It displays key metrics like temperature, pressure, flow rate, and tank level, along with a live event log and historical data visualization.",
+  "requestFramePermissions": []
+}
